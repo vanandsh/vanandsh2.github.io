@@ -15,8 +15,8 @@ exclude: [vendor]
 # Author settings
 author:
   name: V Anand Shankar
-  title: Data Scientist
-  address: Vancouver, British Columbia
+  title: Data Scientist 
+  address: Vancouver, British Columbia, Canada
   email: vanandshankar@yahoo.com
   link: https://github.com/vanandsh/vanandsh2.github.io.git
   weibo:
